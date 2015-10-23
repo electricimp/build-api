@@ -1,0 +1,36 @@
+{
+  "name": "build-api",
+  "version": "0.2.7",
+  "description": "Javascript wrapper for the Electric Imp Build API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElectricImpSampleCode/build-api.git"
+  },
+  "keywords": [
+    "electricimp",
+    "build",
+    "imp",
+    "iot",
+    "api",
+    "build"
+  ],
+  "author": {
+    "name": "Matt Haines",
+    "email": "matt@electricimp.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "bugs": {
+    "url": "https://github.com/ElectricImpSampleCode/build-api/issues"
+  },
+  "homepage": "https://github.com/ElectricImpSampleCode/build-api",
+  "dependencies": {
+    "request": "^2.55.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.3.1"
+  }
+}
