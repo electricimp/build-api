@@ -16,8 +16,8 @@
     "build"
   ],
   "author": {
-    "name": "Matt Haines",
-    "email": "matt@electricimp.com"
+    "name": "Cat Haines",
+    "email": "tony@electricimp.com"
   },
   "license": "MIT",
   "scripts": {
@@ -28,9 +28,9 @@
   },
   "homepage": "https://github.com/ElectricImpSampleCode/build-api",
   "dependencies": {
-    "request": "^2.55.0"
+    "request": "^2.72.0"
   },
   "devDependencies": {
-    "jasmine": "^2.3.1"
+    "jasmine": "^2.4.1"
   }
 }
