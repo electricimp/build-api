@@ -271,6 +271,20 @@ imp.createModelRevision("<-- model_id -->", model, function(err, data) {
 });
 ```
 
+# Release History
+
+### 0.3.1
+
+- Updates to Read Me, dependency versions
+
+### 0.3.0
+
+- Minor code updates
+
+### 0.2.8
+
+- Initial release, forked from *imp-api*
+
 # LICENSE
 
 *build-api* is licenced under the [MIT License](./LICENSE).
