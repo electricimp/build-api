@@ -19,6 +19,8 @@ var imp = new Imp({
 });
 ```
 
+**Note** Typically, *build-api* is instantiated on your behalf by [*build-cli*](https://github.com/ElectricImpSampleCode/build-cli/), our command line tools for interacting with the Electric Imp online development environment.
+
 # Devices
 
 ## imp.getDevices(*options, callback*)
