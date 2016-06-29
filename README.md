@@ -1,4 +1,4 @@
-# Electric Imp Build API 0.3.1
+# Electric Imp Build API 0.3.2
 
 *build-api* is a JavaScript wrapper for the [Electric Imp Build API](https://electricimp.com/docs/buildapi/).
 
@@ -272,6 +272,10 @@ imp.createModelRevision("<-- model_id -->", model, function(err, data) {
 ```
 
 # Release History
+
+### 0.3.2
+
+- Typo in package.json
 
 ### 0.3.1
 
