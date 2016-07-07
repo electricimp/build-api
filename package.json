@@ -1,7 +1,7 @@
 {
   "name": "build-api",
-  "version": "0.3.1",
-  "description": "Javascript wrapper for the Electric Imp Build API",
+  "version": "0.3.2",
+  "description": "JavaScript wrapper for the Electric Imp Build API",
   "main": "index.js",
   "repository": {
     "type": "git",
