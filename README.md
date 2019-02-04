@@ -1,4 +1,4 @@
-| :warning: The Electric Imp’s Build API is not supported anymore. Please use [impCentral API](https://apidoc.electricimp.com) and JavaScript [Library](https://github.com/electricimp/imp-central-api) instead. |
+| :warning: The Electric Imp’s Build API is not supported anymore. Please use [impCentral™ API](https://apidoc.electricimp.com) and impCentral™ API JavaScript [Library](https://github.com/electricimp/imp-central-api) instead. |
 | --- |
 
 
