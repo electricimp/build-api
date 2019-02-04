@@ -1,3 +1,7 @@
+| :warning: The Electric Imp’s Build API is not supported anymore. Please use [impCentral API](https://apidoc.electricimp.com) and JavaScript [Library](https://github.com/electricimp/imp-central-api) instead. |
+| --- |
+
+
 # Electric Imp Build API 0.3.2
 
 *build-api* is a JavaScript wrapper for the [Electric Imp Build API](https://electricimp.com/docs/buildapi/).
